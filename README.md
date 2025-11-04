@@ -1,6 +1,6 @@
 # Amazon Automation
 
-This project automates product to payment journey in any live Amazon web application.
+This project automates product to payment journey in live Amazon Web Application.
 
 ## 🔧 Tech Stack
 
@@ -11,5 +11,6 @@ This project automates product to payment journey in any live Amazon web applica
 - Page Object Model (POM)
 
 ## 📁 Project Structure
+
 
 
